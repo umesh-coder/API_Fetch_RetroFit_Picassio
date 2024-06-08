@@ -1,0 +1,13 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬™ğ«ÿÿÿÿÿ8ÇĞïÌû1J$47b144c9-9230-4087-aa3b-7f62fd69bc94
+}
+java:S1118":Add a private constructor to hide the implicit public one.(¸ˆ°Ğ8ÍĞïÌû1J$e21fa15d-8a7a-4ce3-8d91-3e783f89aab6
+‡
+java:S1128"ERemove this unused import 'com.example.jsonparsing.Model.RetroPhoto'.(Ô”Ğ8Ÿ¹üÍû1J$b951d946-9608-4ba6-bfc4-661f01b2f207
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ÿ¹üÍû1J$ba69fb50-b423-4fb8-b282-209994ae9eb7
+n
+java:S1128"+Remove this unused import 'retrofit2.Call'.(Çö÷›8 ¹üÍû1J$42c88f6f-5f25-4091-8dcc-50af72a2ecb7
+r
+java:S1128
+"/Remove this unused import 'retrofit2.http.GET'.(¬ü‰´8 ¹üÍû1J$8925df3c-6d4f-49b2-b353-45fc797fde1f
